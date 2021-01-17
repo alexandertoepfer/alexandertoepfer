@@ -1,6 +1,6 @@
 <div>
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=alexandertoepfer&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs" />
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandertoepfer" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=alexandertoepfer&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs&theme=graywhite " />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandertoepfer&theme=graywhite" />
 </div>
 <!--
 **alexandertoepfer/alexandertoepfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
