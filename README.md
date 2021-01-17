@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/alexandertoepfer/alexandertoepfer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandertoepfer&show_icons=true&show_owner=true&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/alexandertoepfer/alexandertoepfer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandertoepfer" />
+</a>
+
 <!--
 **alexandertoepfer/alexandertoepfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
