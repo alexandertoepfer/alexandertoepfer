@@ -1,8 +1,8 @@
 <a href="https://github.com/alexandertoepfer/alexandertoepfer">
-  <img style="height: 150px" align="center" src="https://github-readme-stats.vercel.app/api?username=alexandertoepfer&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandertoepfer&show_icons=true&show_owner=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs&height=150" />
 </a>
 <a href="https://github.com/alexandertoepfer/alexandertoepfer">
-  <img style="height: 150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandertoepfer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandertoepfer&height=150" />
 </a>
 
 <!--
