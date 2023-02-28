@@ -1,30 +1,15 @@
 
-
-![text](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg | width=40)
-
-![text](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg | width=40)
-
-![text](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg | width=40)
-
-![text](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg | width=40)
-
-![text](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg | width=40)
-
-![text](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg | width=40)
-
-![text](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg | width=40)
-
-![text](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg | width=40)
-
-![text](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg | width=40)
-
-![text](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg | width=40)
-
-<img style="display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"></img>
-
-<img style="display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"></img>
-
-### Test
+<h1 align="center">🤠 Howdy! I'm Alexander Töpfer</h1>
+<p align="center">
+I'm a Software Engineer/Cybersecurity Enthusiast from Germany <img src="https://flagpedia.net/data/flags/mini/de.png" width="20"></img>
+</p>
+<p align="center">
+<img style="display: inline-block; padding-right: 8px;" src="https://img.shields.io/badge/-running-00599C?style=flat&logo=cplusplus"></img>
+<img style="display: inline-block; padding-right: 8px;" src="https://img.shields.io/badge/-open-66595C?style=flat&logo=atom"></img>
+<img style="display: inline-block; padding-right: 8px;" src="https://img.shields.io/badge/Tests-passing-609926?style=flat&logo=github"></img>
+<img style="display: inline-block; padding-right: 8px;" src="https://img.shields.io/badge/Chess-occasionally-000000?style=flat&logo=lichess"></img>
+</p>
+<br/>
 
 ![text](https://github.com/alexandertoepfer/readme/blob/main/activity-art-v2.png)
 
