@@ -20,9 +20,11 @@
 
 ![text](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg | width=40)
 
-![text](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"></img>
 
-![text](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"></img>
+
+### Test
 
 ![text](https://github.com/alexandertoepfer/readme/blob/main/activity-art-v2.png)
 
