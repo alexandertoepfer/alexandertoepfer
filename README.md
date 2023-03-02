@@ -5,7 +5,7 @@ I'm a Software Engineer/Cybersecurity Enthusiast from Germany <img src="https://
 </p>
 <p align="center">
 <img style="display: inline-block; padding-right: 8px;" src="https://img.shields.io/badge/-running-00599C?style=flat&logo=cplusplus"></img>
-<img style="display: inline-block; padding-right: 8px;" src="https://img.shields.io/badge/-open-66595C?style=flat&logo=atom"></img>
+<img style="display: inline-block; padding-right: 8px;" src="https://img.shields.io/badge/-editing-66595C?style=flat&logo=atom"></img>
 <img style="display: inline-block; padding-right: 8px;" src="https://img.shields.io/badge/Tests-passing-609926?style=flat&logo=github"></img>
 <img style="display: inline-block; padding-right: 8px;" src="https://img.shields.io/badge/Chess-occasionally-000000?style=flat&logo=lichess"></img>
 </p>
