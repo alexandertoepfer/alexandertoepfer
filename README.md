@@ -12,6 +12,8 @@ I'm a Software Engineer with a passion for C++20 from Germany <img src="https://
 </p>
 <br/>
 
-![text](https://github.com/alexandertoepfer/readme/blob/main/activity-art-v2.png)
+![pixel art of activity](https://github.com/alexandertoepfer/readme/blob/main/activity-art-v2.png)
 
-![text](https://github-profile-trophy.vercel.app/?username=alexandertoepfer&theme=flat&rank=SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true)
+![trophies](https://github-profile-trophy.vercel.app/?username=alexandertoepfer&theme=flat&rank=SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true)
+
+![most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandertoepfer&hide_progress=true)
